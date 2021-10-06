@@ -1014,6 +1014,9 @@ html {
   }
 
 
+}
+
+
   .timeline ul .yama::before, h1{
       
     transition: 0.25s ease-in-out;
@@ -1069,5 +1072,3 @@ html {
       #paddingneed{
         padding-bottom: 100px;
       }
-
-}
